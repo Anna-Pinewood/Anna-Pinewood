@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/65508302/220957864-ccb25d11-4414-40a8-aeb8-88483a33c9fb.png" width="200"/>
-  <img src="https://user-images.githubusercontent.com/65508302/220958893-6a4a83ef-e66c-4860-8bee-9242d9be371e.png" width="200"/>
   
   <div id="badges">
   <a href="https://t.me/high_fly_bird">
