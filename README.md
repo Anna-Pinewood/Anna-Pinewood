@@ -31,7 +31,7 @@ My areas of interest currently are
 ### 🖥️ Latest projects :
 > <a href="https://github.com/Anna-Pinewood/Ischemic_Stroke_Prediction">Ishemic stroke recognition</a> with Siamese NN using Pytorch Lightning
 
-> <a href="https://github.com/Anna-Pinewood/Ischemic_Stroke_Prediction"> Predicting burn-outs</a> with Time Series Analysis using Probhet, etc
+> <a href="https://github.com/Anna-Pinewood/future_design_hackaton_4"> Predicting burn-outs</a> with Time Series Analysis using Probhet, etc
 ---
 **telegram** @high_fly_bird
 
