@@ -25,7 +25,7 @@ I am a Data Scientist already experienced in
 - Regression and Classification problems
 
 My areas of interest currently are
-- Recommender Systems
+- Recommender Systems + Reinforcement Learning
 - Healthcare Data Science
 ---
 ### 🖥️ Latest projects :
