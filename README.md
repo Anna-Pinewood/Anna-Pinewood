@@ -29,7 +29,7 @@ My areas of interest currently are
 - Healthcare Data Science
 ---
 ### 🖥️ Latest projects :
-> <a href="https://github.com/Anna-Pinewood/video_summarize">Summirize video with GPT.</a>
+> <a href="https://github.com/Anna-Pinewood/video_summarize">Summirize video with GPT</a> with OpenAI APIs
 
 > <a href="https://github.com/Anna-Pinewood/Ischemic_Stroke_Prediction">Ishemic stroke recognition</a> with Siamese NN using Pytorch Lightning
 
