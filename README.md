@@ -19,21 +19,13 @@
 ### :woman_technologist: About Me :
 
 I am a Data Scientist already experienced in
-- Neural Networks Architectures and Systems
-- Time Series Analysis
-- Anomaly Recongnition
-- Regression and Classification problems
+- NLP: LLM (local and api) – prompt and tune.
+- RAG databases
+- Classic NLP: transformers, etc
+- Classic ML
 
 My areas of interest currently are
-- Recommender Systems + Reinforcement Learning
-- Healthcare Data Science
----
-### 🖥️ Latest projects :
-> <a href="https://github.com/Anna-Pinewood/video_summarize">Summirize video with GPT</a> with OpenAI APIs
-
-> <a href="https://github.com/Anna-Pinewood/Ischemic_Stroke_Prediction">Ishemic stroke recognition</a> with Siamese NN using Pytorch Lightning
-
-> <a href="https://github.com/Anna-Pinewood/future_design_hackaton_4"> Predicting burn-outs</a> with Time Series Analysis using Probhet, etc
+- LLM in production (matching, summarising, profiling, extracting, etc)
 ---
 **telegram** @high_fly_bird
 
