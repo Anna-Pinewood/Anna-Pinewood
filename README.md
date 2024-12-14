@@ -18,14 +18,15 @@
 
 ### :woman_technologist: About Me :
 
-I am a Data Scientist already experienced in
-- NLP: LLM (local and api) – prompt and tune.
+ML Engineer expirienced in
+- NLP: LLM (local and api) – prompt and tune
+- Agentic systems
 - RAG databases
 - Classic NLP: transformers, etc
 - Classic ML
+- ML Services
 
-My areas of interest currently are
-- LLM in production (matching, summarising, profiling, extracting, etc)
+My areas of interest currently are autonomous agents.
 ---
 **telegram** @high_fly_bird
 
